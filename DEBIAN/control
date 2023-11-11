@@ -1,0 +1,5 @@
+Package: LinuxHelper
+Version: 0.2
+Maintainer: Serverpen
+Architecture: amd64
+Description: A LinuxHelper to like setup servers or port foward without port fowarding
