@@ -1,1 +1,1 @@
-
+alias test='echo test'
